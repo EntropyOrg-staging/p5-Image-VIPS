@@ -1,4 +1,4 @@
 p5-Image-VIPS
 =============
 
-WIP
+http://www.vips.ecs.soton.ac.uk/index.php?title=VIPS
